@@ -23,7 +23,7 @@
 <h2 align="center">Techs I Use</h2>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,javascript,html,css,heroku,gcp,git,eclipse,flutter,firebase,html,kotlin,linux,maven,sqlite)](https://skillicons.dev)
 <!-- 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
